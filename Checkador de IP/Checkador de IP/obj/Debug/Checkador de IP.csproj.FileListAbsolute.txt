@@ -1,0 +1,10 @@
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\bin\Debug\Checkador de IP.exe.config
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\bin\Debug\Checkador de IP.exe
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\bin\Debug\Checkador de IP.pdb
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\obj\Debug\Checkador de IP.csprojAssemblyReference.cache
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\obj\Debug\Checkador_de_IP.Form1.resources
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\obj\Debug\Checkador_de_IP.Properties.Resources.resources
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\obj\Debug\Checkador de IP.csproj.GenerateResource.cache
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\obj\Debug\Checkador de IP.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\obj\Debug\Checkador de IP.exe
+C:\Users\55199\Desktop\2º Semestre\Janaine - Linguagem de Programação\Checkador de IP\Checkador de IP\obj\Debug\Checkador de IP.pdb
